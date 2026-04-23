@@ -1,0 +1,60 @@
+/* FORM CONTAINER */
+.form {
+    width: 40%;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* TITLE */
+.form h3 {
+    color: #3F46A4;
+    margin-bottom: 10px;
+}
+
+/* LABEL */
+.form label {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+/* INPUT FIELDS */
+.form input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+}
+
+/* CHECKBOX LINE */
+.terms {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+}
+
+/* BUTTON */
+.create-btn {
+    background-color: #3F46A4;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+/* LOGIN TEXT */
+.login-text {
+    font-size: 12px;
+    text-align: center;
+}
+
+.login-text a {
+    color: #50AD50;
+    text-decoration: none;
+}
