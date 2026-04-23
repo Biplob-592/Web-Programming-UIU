@@ -1,3 +1,115 @@
+.color-1{
+    background-color:#536FFE;
+}
+.color-2{
+    background-color:#EBEBEB ;
+}
+.color-3{
+    background-color:#C1CDFF;
+}
+.color-4{
+    background-color:#F93536;
+}
+.color-5{
+    background-color:#9EFE1E;
+}
+.color-6{
+    background-color:#FEBD57;
+}
+.white{
+    background-color: white;
+}
+
+.flex{
+    display: flex;
+}
+.round-border{
+    border-radius: 20px;
+}
+.capsule{
+    width: 100px;
+}
+
+.stats-div{
+    width:100vw;
+    height:40vh;
+    padding : 20px;
+    gap : 40px;
+
+}
+
+.projects-div{
+    height : 40vh;
+    width: 100vw;
+    padding : 20px;
+    gap : 40px;
+
+}
+
+.intro{
+    width:40vw;
+}
+.task{
+    width: 30vw;
+
+}
+
+.task-1{
+    height :33%;
+    margin-bottom:20px;
+
+}
+.task-2{
+    height :33%;
+    margin-top:20px;
+
+}
+
+
+
+.revenue{
+    width: 30vw;
+}
+
+.padding{
+    padding : 20px;
+}
+
+
+
+.project{
+    width: 33%;
+}
+
+.progress-bar{
+    width : 100%;
+    border-radius:10px;
+    height : 5%;
+}
+
+.w90{
+    width :90%;
+    height :100%;
+}
+.w50{
+    width :50%;
+    height :100%;
+}
+.w60{
+    width :60%;
+    height :100%;
+}
+
+
+
+
+
 .window{
     height: 100vh ;
+}
+.Header{
+    height: 10vh;
+}
+.main-Body{
+    height : 90vh;
 }
