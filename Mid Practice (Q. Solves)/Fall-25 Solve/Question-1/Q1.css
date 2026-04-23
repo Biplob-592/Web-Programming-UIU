@@ -48,6 +48,7 @@
 
 .intro{
     width:40vw;
+    gap: 80px;
 }
 .task{
     width: 30vw;
@@ -77,6 +78,39 @@
 
 
 
+.header{
+ height: 10vh;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.dashbard{
+ width: 20% ;
+}
+.nav-button{
+ width: auto;
+ justify-content: center;
+ gap: 20px}
+ .home{
+ color: #C1CDFF ;
+}
+.admin{
+ align-items: center;
+ justify-content: flex-end;
+ gap: 10px;
+ width: 20%;
+ text-align: right;
+}
+.main-body{
+ height: 90vh;
+ margin-top: 20px;
+ padding: 20px;
+}
+
+
+
+
 .project{
     width: 33%;
 }
@@ -99,6 +133,25 @@
     width :60%;
     height :100%;
 }
+
+
+
+.icon{
+   border-radius: 50%; 
+   height : 8%; 
+   color : white;
+   font-weight: bolder;
+}
+
+.w80{
+    width :80%;
+    height :100%;
+}
+.w70{
+    width :70%;
+    height :100%;
+}
+
 
 
 
