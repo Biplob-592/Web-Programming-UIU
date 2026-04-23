@@ -1,0 +1,20 @@
+.body {
+ background-color: #F2F2F2;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100vh;
+ font-family: Arial, sans-serif;
+}
+.search-box {
+ width: 300px;
+ padding: 10px 15px;
+ border: 1px solid #B6B09F;
+ border-radius: 20px;
+ outline: none;
+ background-color: #EAE4D5;
+ font-size: 16px;
+}
+.search-box:focus {
+ border-color: #000000;
+}
