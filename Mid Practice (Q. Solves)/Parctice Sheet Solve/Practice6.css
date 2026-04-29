@@ -1,0 +1,26 @@
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+body {
+    background-color: #f3f6f9;
+    color: #333;
+}
+
+/* Base Layout using Flexbox */
+.app-layout {
+    display: flex;
+    height: 100vh;
+}
+/* Sidebar (Left side) */
+.sidebar {
+    width: 260px;
+    background-color: #1a233a;
+    color: #a0aec0;
+    display: flex;
+    flex-direction: column;
+}
